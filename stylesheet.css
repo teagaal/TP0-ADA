@@ -1,0 +1,26 @@
+body {
+  margin: 0 auto;
+}
+.banner {
+  width: 1480px;
+  height: 440px;
+  background: linear-gradient(135deg, #23aa8a 0%,#b8efc5 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.form {
+  text-align: center;
+  margin-top: 20px;
+}
+form {
+  display: inline-block;
+}
+.footer {
+  position: absolute;
+  text-align: center;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+
+}
