@@ -4,6 +4,7 @@ body {
 .banner {
   width: 1480px;
   height: 440px;
+  margin: 2%;
   background: linear-gradient(135deg, #23aa8a 0%,#b8efc5 100%);
   background-repeat: no-repeat;
   background-attachment: fixed;
